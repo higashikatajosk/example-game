@@ -1,2 +1,2 @@
 # example-game
-Help
+Yey
